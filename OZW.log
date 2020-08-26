@@ -1,0 +1,11 @@
+2017-03-16 15:29:31.546 Always, OpenZwave Version 1.4.34 Starting Up
+2017-03-16 15:29:31.660 Warning, Failed - Network Key Not Set
+2017-03-16 15:29:37.380 Warning, Node002, WARNING: Device is not a sleeping node.
+2017-03-16 15:29:37.420 Warning, CheckCompletedNodeQueries m_allNodesQueried=0 m_awakeNodesQueried=0
+2017-03-16 15:29:37.420 Warning, CheckCompletedNodeQueries all=0, deadFound=0 sleepingOnly=0
+2017-03-16 15:29:43.198 Warning, WARNING: FUNC_ID_ZW_APPLICATION_UPDATE: UPDATE_STATE_NODE_INFO_REQ_FAILED received
+2017-03-16 15:29:46.029 Warning, CheckCompletedNodeQueries m_allNodesQueried=0 m_awakeNodesQueried=0
+2017-03-16 15:29:46.029 Warning, CheckCompletedNodeQueries all=0, deadFound=0 sleepingOnly=0
+2017-03-16 15:29:54.821 Warning, CheckCompletedNodeQueries m_allNodesQueried=0 m_awakeNodesQueried=0
+2017-03-16 15:29:54.821 Warning, CheckCompletedNodeQueries all=1, deadFound=0 sleepingOnly=1
+2017-03-16 15:44:13.471 Warning, CheckCompletedNodeQueries m_allNodesQueried=1 m_awakeNodesQueried=1
